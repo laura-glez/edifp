@@ -3,3 +3,7 @@ body{
     font-weight: bold;
     color:cornflowerblue;       /* #F00 EL ROJO QUE PIDE */
 }
+p{
+    color: rgb(75,0,255);
+    font-style: italic;
+}
